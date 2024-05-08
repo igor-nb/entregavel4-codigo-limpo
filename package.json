@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
